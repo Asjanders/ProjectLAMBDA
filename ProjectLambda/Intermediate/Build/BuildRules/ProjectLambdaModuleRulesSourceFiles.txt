@@ -1,0 +1,3 @@
+C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Source\ProjectLambda\ProjectLambda.Build.cs
+C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Source\ProjectLambda.Target.cs
+C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Source\ProjectLambdaEditor.Target.cs

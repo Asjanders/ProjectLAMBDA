@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProjectLambda-1421.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Intermediate\Build\Win64\ProjectLambdaEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Intermediate\Build\Win64\UE4Editor\Development\ProjectLambda\ProjectLambda.cpp.obj"
+"C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Intermediate\Build\Win64\UE4Editor\Development\ProjectLambda\ProjectLambdaCharacter.cpp.obj"
+"C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Intermediate\Build\Win64\UE4Editor\Development\ProjectLambda\ProjectLambdaGameMode.cpp.obj"
+"C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Intermediate\Build\Win64\UE4Editor\Development\ProjectLambda\ProjectLambdaHUD.cpp.obj"
+"C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Intermediate\Build\Win64\UE4Editor\Development\ProjectLambda\ProjectLambdaProjectile.cpp.obj"
+"C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Intermediate\Build\Win64\UE4Editor\Development\ProjectLambda\ProjectLambda.init.gen.cpp.obj"
+"C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Intermediate\Build\Win64\UE4Editor\Development\ProjectLambda\ProjectLambdaCharacter.gen.cpp.obj"
+"C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Intermediate\Build\Win64\UE4Editor\Development\ProjectLambda\ProjectLambdaGameMode.gen.cpp.obj"
+"C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Intermediate\Build\Win64\UE4Editor\Development\ProjectLambda\ProjectLambdaHUD.gen.cpp.obj"
+"C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Intermediate\Build\Win64\UE4Editor\Development\ProjectLambda\ProjectLambdaProjectile.gen.cpp.obj"
+"C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Intermediate\Build\Win64\UE4Editor\Development\ProjectLambda\PCLaunch.rc.res"
+/OUT:"C:\Users\cladi\Documents\Unreal Projects\ProjectLambda\Intermediate\Build\Win64\UE4Editor\Development\ProjectLambda\UE4Editor-ProjectLambda-1421.lib"
