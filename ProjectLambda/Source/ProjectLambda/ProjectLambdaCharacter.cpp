@@ -163,7 +163,10 @@ void AProjectLambdaCharacter::OnFire()
 				ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButDontSpawnIfColliding;
 
 				// spawn the projectile at the muzzle
-				World->SpawnActor<AProjectLambdaProjectile>(ProjectileClass, SpawnLocation, SpawnRotation, ActorSpawnParams);
+				for (int i = 0; i < 3; i++) {
+					World->SpawnActor<AProjectLambdaProjectile>(ProjectileClass, SpawnLocation, SpawnRotation, ActorSpawnParams);
+					
+				}
 			}
 		}
 	}

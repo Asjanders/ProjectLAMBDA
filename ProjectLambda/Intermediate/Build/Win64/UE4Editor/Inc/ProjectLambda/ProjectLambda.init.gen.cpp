@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeProjectLambda_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/ProjectLambda",
 				PKG_CompiledIn | 0x00000000,
-				0x9EA28D65,
-				0x46CDCC8D,
+				0x7495A704,
+				0x32319514,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};

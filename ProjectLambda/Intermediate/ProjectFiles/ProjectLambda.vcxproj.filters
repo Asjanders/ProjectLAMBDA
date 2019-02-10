@@ -66,4 +66,22 @@
       <Filter>Source\ProjectLambda</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\ProjectLambda\Public">
+      <UniqueIdentifier>{7f23af7a-89d9-46ef-b3d9-8833d530c6bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ProjectLambda\Private">
+      <UniqueIdentifier>{b185caf7-d373-4bc3-8367-4ed1ea5fc69b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\ProjectLambda\Public\PL_Character.h">
+      <Filter>Source\ProjectLambda\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\ProjectLambda\Private\PL_Character.cpp">
+      <Filter>Source\ProjectLambda\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
