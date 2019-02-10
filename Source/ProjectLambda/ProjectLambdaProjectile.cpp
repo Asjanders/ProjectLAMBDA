@@ -38,5 +38,5 @@ AProjectLambdaProjectile::AProjectLambdaProjectile()
 
 void AProjectLambdaProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit)
 {
-	Destroy();
+	
 }
